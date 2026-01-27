@@ -62,9 +62,3 @@
   </a>
   </a>
 </p>
-
----
-
-<p align="center">
-  ❤ Made with 💙 by <b>Hossein</b>
-</p>
